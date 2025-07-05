@@ -220,7 +220,7 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/cdk@^14.0.0", "@angular/cdk@^17.3.10", "@angular/cdk@17.3.10":
+"@angular/cdk@^14.0.0", "@angular/cdk@^17.3.10", "@angular/cdk@>=17.0.0", "@angular/cdk@17.3.10":
   version "17.3.10"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/cdk/-/cdk-17.3.10.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fcdk%2F-%2Fcdk-17.3.10.tgz"
   integrity sha512-b1qktT2c1TTTe5nTji/kFAVW92fULK0YhYAvJ+BjZTPKu2FniZNe8o4qqQ0pUuvtMu+ZQxp/QqFYoidIVCjScg==
@@ -253,7 +253,7 @@
     symbol-observable "4.0.0"
     yargs "17.7.2"
 
-"@angular/common@^14.0.0", "@angular/common@^17.0.0 || ^18.0.0", "@angular/common@16.2.12":
+"@angular/common@^14.0.0", "@angular/common@^17.0.0 || ^18.0.0", "@angular/common@>=17.0.0", "@angular/common@16.2.12":
   version "16.2.12"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/common/-/common-16.2.12.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fcommon%2F-%2Fcommon-16.2.12.tgz"
   integrity sha512-B+WY/cT2VgEaz9HfJitBmgdk4I333XG/ybC98CMC4Wz8E49T8yzivmmxXB3OD6qvjcOB6ftuicl6WBqLbZNg2w==
@@ -281,17 +281,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/core@^14.0.0", "@angular/core@^17.0.0 || ^18.0.0", "@angular/core@16.2.12":
+"@angular/core@^14.0.0", "@angular/core@^17.0.0 || ^18.0.0", "@angular/core@>=17.0.0", "@angular/core@16.2.12":
   version "16.2.12"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/core/-/core-16.2.12.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fcore%2F-%2Fcore-16.2.12.tgz"
   integrity sha512-GLLlDeke/NjroaLYOks0uyzFVo6HyLl7VOm0K1QpLXnYvW63W9Ql/T3yguRZa7tRkOAeFZ3jw+1wnBD4O8MoUA==
-  dependencies:
-    tslib "^2.3.0"
-
-"@angular/flex-layout@14.0.0-beta.40":
-  version "14.0.0-beta.40"
-  resolved "https://registry.npmjs.org/@angular/flex-layout/-/flex-layout-14.0.0-beta.40.tgz"
-  integrity sha512-lYi2BKovNk5u2wmj/AMIMqfUzCBEt99Wu/Gfa+1mUIlw3voKCmIsV2XYBhX4adRdD+dRagY3Opger43JR7PXEw==
   dependencies:
     tslib "^2.3.0"
 
@@ -363,7 +356,7 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/platform-browser@^14.0.0", "@angular/platform-browser@^17.0.0 || ^18.0.0", "@angular/platform-browser@16.2.12":
+"@angular/platform-browser@^17.0.0 || ^18.0.0", "@angular/platform-browser@>=17.0.0", "@angular/platform-browser@16.2.12":
   version "16.2.12"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/platform-browser/-/platform-browser-16.2.12.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fplatform-browser%2F-%2Fplatform-browser-16.2.12.tgz"
   integrity sha512-NnH7ju1iirmVEsUq432DTm0nZBGQsBrU40M3ZeVHMQ2subnGiyUs3QyzDz8+VWLL/T5xTxWLt9BkDn65vgzlIQ==
@@ -6334,6 +6327,13 @@ neo-async@^2.6.2:
   version "2.6.2"
   resolved "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
+
+ng-flex-layout@^17.3.7-beta.1:
+  version "17.3.7-beta.1"
+  resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/ng-flex-layout/-/ng-flex-layout-17.3.7-beta.1.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fng-flex-layout%2F-%2Fng-flex-layout-17.3.7-beta.1.tgz"
+  integrity sha512-MTjlQUldB/hEsn0DY/RoY2SKBQoyaKltlOOFjCjH2OfcYA3COHhkJS3PZe9NAjR7TBDb9Ve989m18bSucRzACQ==
+  dependencies:
+    tslib "^2.3.0"
 
 ngx-material-file-input@4.0.0:
   version "4.0.0"
