@@ -1,6 +1,6 @@
 # Estate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+This project is based on Angular 20, and requires node 22.
 
 ## Start the project
 
@@ -10,7 +10,7 @@ Git clone:
 
 Go inside folder:
 
-> cd P3-Full-Stack-portail-locataire
+> cd Mod-lisez-et-impl-mentez-le-back-end-en-utilisant-du-code-Java-maintenable
 
 Install dependencies:
 
