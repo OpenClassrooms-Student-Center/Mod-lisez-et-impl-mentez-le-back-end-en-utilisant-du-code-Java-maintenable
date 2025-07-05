@@ -6335,10 +6335,10 @@ ng-flex-layout@^17.3.7-beta.1:
   dependencies:
     tslib "^2.3.0"
 
-ngx-material-file-input@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/ngx-material-file-input/-/ngx-material-file-input-4.0.0.tgz"
-  integrity sha512-N0lpuwO1Td3VUR/KnylVi0EObJ2f9s/3jvOUyIGWvy25l4fQOs8zl6cf+OqXIoYLsOHBnC2vVRNugbEuT9CaDQ==
+ngx-material-file-input@^4.0.1:
+  version "4.0.1"
+  resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/ngx-material-file-input/-/ngx-material-file-input-4.0.1.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fngx-material-file-input%2F-%2Fngx-material-file-input-4.0.1.tgz"
+  integrity sha512-syYvwlAdbiUkXFRQENfJSYErQLzRY0xnUIIDgwMeOw8uIZp+FyuTrFpOqA2yBVumi/EKdi4afv6fSHrNwrKvbg==
   dependencies:
     tslib "^2.3.0"
 
