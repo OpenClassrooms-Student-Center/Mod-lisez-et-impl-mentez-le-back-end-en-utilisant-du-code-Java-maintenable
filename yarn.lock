@@ -149,9 +149,9 @@
     "@angular-eslint/utils" "14.0.2"
     "@typescript-eslint/utils" "5.29.0"
 
-"@angular-eslint/schematics@14.0.2":
+"@angular-eslint/schematics@^14.0.2":
   version "14.0.2"
-  resolved "https://registry.npmjs.org/@angular-eslint/schematics/-/schematics-14.0.2.tgz"
+  resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular-eslint/schematics/-/schematics-14.0.2.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular-eslint%2Fschematics%2F-%2Fschematics-14.0.2.tgz"
   integrity sha512-aLS13eaJmQZe02J3oZywvGOKonEhnHRIoJcVYovT4YRQ/QWmDzd7Ye81ta7C2x8YhKUWgU/7YQagBDGEP8XORw==
   dependencies:
     "@angular-eslint/eslint-plugin" "14.0.2"
