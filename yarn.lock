@@ -195,7 +195,7 @@
   optionalDependencies:
     lmdb "3.3.0"
 
-"@angular/cdk@^19.0.0", "@angular/cdk@^20.0.5", "@angular/cdk@>=17.0.0", "@angular/cdk@20.0.5":
+"@angular/cdk@^20.0.0", "@angular/cdk@^20.0.5", "@angular/cdk@>=17.0.0", "@angular/cdk@20.0.5":
   version "20.0.5"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/cdk/-/cdk-20.0.5.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fcdk%2F-%2Fcdk-20.0.5.tgz"
   integrity sha512-WhJ1I/ib/Za0qjWkSzMYV0gM8NOWrtOcZ2TYZ4aYFsjd8E13rGhxOez0DWt2sN3vfjAc1iWMmGGbNZrkp98adg==
@@ -225,7 +225,7 @@
     semver "7.7.2"
     yargs "17.7.2"
 
-"@angular/common@^19.0.0", "@angular/common@^20.0.0 || ^21.0.0", "@angular/common@>=17.0.0", "@angular/common@20.0.6":
+"@angular/common@^20.0.0", "@angular/common@^20.0.0 || ^21.0.0", "@angular/common@>=17.0.0", "@angular/common@20.0.6":
   version "20.0.6"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/common/-/common-20.0.6.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fcommon%2F-%2Fcommon-20.0.6.tgz"
   integrity sha512-NRsq2gI4CH8nEy8yEZFySEmZ4U+1Y1yGzdIFubrKmtE2NXxR4KFGvQCkBLCLh6hNQXQx+Soe126bqByA6oIaFw==
@@ -253,7 +253,7 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/core@^19.0.0", "@angular/core@^20.0.0", "@angular/core@^20.0.0 || ^21.0.0", "@angular/core@>=17.0.0", "@angular/core@20.0.6":
+"@angular/core@^20.0.0", "@angular/core@^20.0.0 || ^21.0.0", "@angular/core@>=17.0.0", "@angular/core@20.0.6":
   version "20.0.6"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/core/-/core-20.0.6.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fcore%2F-%2Fcore-20.0.6.tgz"
   integrity sha512-PLSRl8vM8I+HOlAJFiTcRMNbRj2Clb7lpQqUfkeBSk8bBWOy9fLlscoY3JOk0tXoUTnW6lbRB1LmAFuYAQZzAA==
@@ -267,7 +267,7 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/material@^19.0.0", "@angular/material@^20.0.5":
+"@angular/material@^20.0.0", "@angular/material@^20.0.5":
   version "20.0.5"
   resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/@angular/material/-/material-20.0.5.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2F%40angular%2Fmaterial%2F-%2Fmaterial-20.0.5.tgz"
   integrity sha512-bKWtqbGxLuK6cbpy9hZtH+BGUrqxMQhaR/esW6LmjdNALrbfJx3r2wlOTCSydGP8FJDbg6qmHDYxsl1zha2Gbg==
@@ -3817,10 +3817,10 @@ ng-flex-layout@^17.3.7-beta.1:
   dependencies:
     tslib "^2.3.0"
 
-ngx-custom-material-file-input@^19.0.1:
-  version "19.0.1"
-  resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/ngx-custom-material-file-input/-/ngx-custom-material-file-input-19.0.1.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fngx-custom-material-file-input%2F-%2Fngx-custom-material-file-input-19.0.1.tgz"
-  integrity sha512-mbfFR1cZ3enl8lrPext4KE0m6hluR/a7hiIP3/td95BFuxo6xCGqQlyNFKQ1Vm5nvInf0slV/pzgjuKObzqMGQ==
+ngx-custom-material-file-input@^20.0.0:
+  version "20.0.0"
+  resolved "https://na-public.artifactory.swg-devops.com/artifactory/api/npm/wcp-wdp-npm-remote/ngx-custom-material-file-input/-/ngx-custom-material-file-input-20.0.0.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fngx-custom-material-file-input%2F-%2Fngx-custom-material-file-input-20.0.0.tgz"
+  integrity sha512-onCzwvBZWcv7+b9QSCUvUsbyrL/shSY1F1686f4FJuBBdt4erUQkci189kMwxZPwL6HRYAj9hnO9lCewBvKk3g==
   dependencies:
     tslib "^2.3.0"
 
