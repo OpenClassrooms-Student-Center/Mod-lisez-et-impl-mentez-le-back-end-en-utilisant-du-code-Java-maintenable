@@ -39,17 +39,6 @@ For launching the Mockoon server click on play bouton
 
 Mockoon documentation: https://mockoon.com/docs/latest/about/
 
-### Postman collection
-
-For Postman import the collection
-
-> ressources/postman/rental.postman_collection.json 
-
-by following the documentation: 
-
-https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman
-
-
 ### MySQL
 
 SQL script for creating the schema is available `ressources/sql/script.sql`
